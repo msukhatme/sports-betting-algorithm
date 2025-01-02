@@ -1,0 +1,23 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Node packages
+node_modules/
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+out/
+
+# Log files
+*.log
+
+# Old
+index.html
+jsonTest.txt
+FanDuelBot.js
+WalmartBot.js

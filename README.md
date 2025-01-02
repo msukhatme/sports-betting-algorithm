@@ -10,7 +10,7 @@ This repository contains a Java program for calculating first-basket parlay odds
   - Reads input files (`input1.txt`, `input2.txt`, etc.) and outputs possible parlay combinations and probabilities.
   - Exports the data to `bettingOutput.txt` and `jsonOutput.json`.
 
-- **Node/Puppeteer Automation** (`bettingBot2.js`):
+- **Node/Puppeteer Automation** (`DraftKingsBot.js`):
   - Opens DraftKings in a Chromium browser.
   - Attempts to place bets by clicking on player lines.
   - May require updating selectors as DraftKings changes their site structure.
